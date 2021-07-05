@@ -55,11 +55,18 @@ h2{
     border-radius: 5%;
     box-shadow: 10px 10px 40px gray;
 }
-.column{
+.inline{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:55%;
+    border-radius: 4%;
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-bottom: 10%;
+    margin-left: 15%;
     box-shadow: 10px 10px 40px gray;
-    border: 2px gray solid;
-    display: inline-block;
-    height: 40px;
 }
 footer{
     padding-top: 2%;

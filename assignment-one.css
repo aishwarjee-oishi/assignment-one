@@ -55,6 +55,12 @@ h2{
     border-radius: 5%;
     box-shadow: 10px 10px 40px gray;
 }
+.food-img{
+    width: 200px;
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
 .inline{
     
     display: flex;
@@ -67,6 +73,21 @@ h2{
     margin-bottom: 10%;
     margin-left: 15%;
     box-shadow: 10px 10px 40px gray;
+}
+.last-sec{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding-right: 400px;
+    padding-left: 400px;
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.icon-img{
+    height: 50px;
+    width: 50px;
 }
 footer{
     padding-top: 2%;

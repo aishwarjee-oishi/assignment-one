@@ -74,9 +74,13 @@ h2{
     margin-left: 15%;
     box-shadow: 10px 10px 40px gray;
 }
+.h2-style{
+    text-align: center;
+    box-shadow: 5px 5px 20px turquoise;
+}
 .last-sec{
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     padding-right: 400px;
     padding-left: 400px;
     align-content: center;
